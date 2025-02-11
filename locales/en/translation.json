@@ -1,0 +1,105 @@
+{
+  "hero": {
+    "greeting": "Hi there, I’m",
+    "welcome": "Welcome to my world!",
+    "talk": "Let's talk!",
+    "portfolio": "Portfolio"
+  },
+  "about": {
+    "title": "ABOUT ME",
+    "text": "Why should a person, with their full spectrum of shades, be painted with just one color? Our profession may be our packaging, but our interests are what make us true professionals. My creativity extends across graphic design as my primary occupation, painting, and illustration. I express it through acrylic painting and drawing, on canvas and paper, but also digitally — because creativity knows no walls or boundaries. This portal is a window into my world. Through it, I share everything I create and everything that reflects my creative journey."
+  },
+  "services": {
+    "title": "SERVICES",
+    "description": "Explore everything I create, and let's craft something unique together!",
+    "art": {
+      "title": "Art",
+      "description": "I create one-of-a-kind artworks that bring your emotions to life and turn your space into a reflection of you."
+    },
+    "graphic_design": {
+      "title": "Graphic Design",
+      "description": "From logos to business cards, I design visuals that make your brand unforgettable and speak your style."
+    },
+    "social_media": {
+      "title": "Social Media & Marketing",
+      "description": "Let’s keep your audience engaged with creative posts and strategies that grow your online presence effortlessly."
+    },
+    "ui_ux": {
+      "title": "UI/UX Design",
+      "description": "Crafting intuitive, user-friendly designs that ensure your digital space is as easy to navigate as it is stunning to look at."
+    }
+  },
+  "portfolio": {
+    "title": "PORTFOLIO",
+    "branding": "Branding",
+    "logo_design": "Logo Design",
+    "cv_design": "CV Design",
+    "print_design": "Print Design",
+    "canvas_print": "Canvas Print",
+    "mug_print": "Mug Print",
+    "painting": "Painting",
+    "visit_card": "Bussiness cards"
+
+  },
+  "artvanturista": {
+    "text": "Art connects us with something deeper within – with the beauty of nature, the energy of the universe, and our own experience of the world. I believe that art has the power to bridge what we see outside with our inner feelings, creating a harmonious connection between life on Earth and universal energy.",
+    "title_1": "THE COMBINATION OF ART &",
+    "title_2": "THE ADVENTURE OF TRAVEL",
+    "text_2": "Through the adventures of Artvanturista, every line reveals a piece of my travel story. Inspired by the places I visit, I paint unique landscapes using various techniques, depicting the spirit of adventure and freedom. My works are often created on the move, which makes them authentic and dynamic, with each painting reflecting an experience from the journey – stories told through colors and shapes.",
+    "text_3": "Enjoy authentic works that tell tales of adventures – and for those with special visions, I also create custom pieces just for you."
+  },
+  "megiverse": {
+    "welcome": "WELCOME TO",
+    "welcome_text": "Welcome to Maggiverse – my universe of illustrated worlds and dimensions. Each illustration here is not just an image but a window into the infinity of the cosmos and the profound richness we all carry within. These digital illustrations, carefully transformed into prints on clothing and items, bring a touch of this endless world into everyday life.",
+    "text_2": "Explore my illustrations, choose the one that best represents your beliefs, and make an otherworldly impression wherever you go. ",
+    "text_3": "If you're looking for something unique, carrying your personal story, I’m delighted to create custom digital illustrations tailored to your wishes. Reach out, and together we’ll bring your vision to life through Maggiverse – a universe created from the heart.",
+    "illustrations": "ILLUSTRATIONS"
+  },
+  "social_media": {
+    "title": "SOCIAL MEDIA & MARKETING",
+    "text_1": "Social media is my creative space where communication with people transforms into a community, and brands come to life through strategy and visuals. With every post, I strive to tell an authentic story that not only grabs attention but also connects the right audience with your brand on a deeper level.",
+    "title_2": "LET’S HAVE A LOOK ON MY WORKING PROCESS",
+    "research": "RESEARCH",
+    "research_text": "I start with research and analysis after discussing with you to understand your goals and needs. Based on this, I create a data-driven strategy. Through market and audience analysis, a plan is formed with clear steps toward achieving goals.",
+    "strategy": "STRATEGY",
+    "strategy_text": "Strategy is based on data analysis. Driven by a curiosity to understand people and their needs, I create innovative ways to connect with your brand. With a clear vision, my strategy provides the brand with a distinctive voice and helps it stand out in a competitive world.",
+    "content_creation": "CONTENT CREATION",
+    "content_creation_text": "After that, I move on to design and content writing. I believe every successful post tells a story that engages the audience. Success on social media is not accidental – every step is carefully planned for a clear and impactful message.",
+    "title_3": "TAKE A LOOK AT SOME EXAMPLES OF MY WORK",
+    "text_3_1": "As a Social Media Manager at CMM, I had the opportunity to enhance the digital presence and brand engagement of one of the leading real estate and investment companies in Montenegro. ",
+    "text_3_2": "CMM offers comprehensive services in property sales, investment consulting, and rental management, alongside a strategic partnership with Chestertons Global. Through creative social media strategies, I was able to improve brand recognition and build a stronger connection with the target audience.",
+    "text_4_1": "CodeArt is a company focused on providing comprehensive software and hardware solutions, enabling businesses to enhance their operations through innovative technology.",
+    "text_4_2": "For the main page dedicated to software, I create content that highlights how CodeArt’s tailored solutions help businesses grow, optimize processes, and achieve their business goals. Each post aims to demonstrate how technology is used to improve productivity and efficiency.",
+    "text_5_1": "I also manage their pages for the Mobile Shop, with a special focus on showcasing hardware solutions such as laptops, phone accessories, and other products. My goal is to create content that connects the audience with the brand, positioning CodeArt as a leader in providing technological solutions that make a difference in the market.",
+    "text_6": "I also manage their pages for the Mobile Shop, with a special focus on showcasing hardware solutions such as laptops, phone accessories, and other products. My goal is to create content that connects the audience with the brand, positioning CodeArt as a leader in providing technological solutions that make a difference in the market.",
+    "folow": "For more posts click here.",
+    "more": "...and many more..."
+  },
+  "graphic_design": {
+    "title": "GRAPHIC DESIGN",
+    "text": "Graphic design is the foundation of my work, and each creation reflects uniqueness of the brand or individual I collaborate with. Whether you’re a new company looking to build a visual identity or an established business seeking a design refresh, I offer a wide range of services tailored to your needs.",
+    "logo": "LOGO",
+    "busuness_card": "BUSINESS CARD",
+    "print_design": "PRINT DESIGN",
+    "text_2": "If you need a design that will reflect your brand’s values and leave a lasting impression, I’m here to help."
+  },
+  "ux_ui_design": {
+    "title": "UI/UX DESIGN",
+    "text": "In my continuous search for new ways of creative expression, UI/UX has become my new passion—a natural progression after years of working in graphic design. What I love most about UI/UX design is that it allows me to stay in the world of web design while avoiding the technical challenges of coding. I focus on understanding users and designing experiences that are simple, innovative, and unique.",
+    "text_bite": "The BITE QR Menu app offers restaurants a quick and easy way to display their menus digitally. By simply scanning the QR code, customers can view the full menu, browse dishes, and explore the restaurant’s offerings—all directly from their phones offering a unique experience and easy navigation to customers. ",
+    "text_mega": "Inspired by the need for modernization and business optimization, I designed an innovative e-commerce platform tailored to Montenegro's Mega Promet store—the project aimed to enhance the customer experience and boost sales through digitalization and process automation.",
+    "text_mega_2": "Thanks to the dedicated team of developers at CodeArt,  this idea was successfully transformed into a functional platform, representing a key step in the business transformation of Mega Promet.",
+    "text_2": "If you want a design that combines aesthetics and functionality, an interface that will provide your users with a simple and pleasant experience – I’m here to help."
+  }, 
+  "contact":{
+    "title":"Get in Touch",
+    "text_1":"Have a question or a project in mind? I'd love to hear from you. ",
+    "text_2":"Let's chat and make something amazing together.",
+    "button":"Send message",
+    "field_1":"Name",
+    "field_2":"Email Address",
+    "field_3":"Subject",
+    "field_4":"Your message"
+  }
+}
+
