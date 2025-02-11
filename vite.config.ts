@@ -3,13 +3,9 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: "/",
+  base: "/megi-portfolio/",
   resolve: {
     extensions: ['.tsx', '.ts', '.js'], // Ensure .tsx files are resolved correctly
   },
-  server: {
-    mimeTypes: {
-      'application/javascript': ['ts', 'tsx'],
-    },
-  },
+
 })
