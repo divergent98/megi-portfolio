@@ -6,5 +6,10 @@ export default defineConfig({
   base: "/",
   resolve: {
     extensions: ['.tsx', '.ts', '.js'], // Ensure .tsx files are resolved correctly
-  }
+  },
+  server: {
+    mimeTypes: {
+      'application/javascript': ['ts', 'tsx'],
+    },
+  },
 })
