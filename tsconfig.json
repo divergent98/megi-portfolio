@@ -2,7 +2,11 @@
   "compilerOptions": {
     "jsx": "react-jsx", // Ensure React JSX compatibility
     "module": "ESNext", // Use ESNext modules
-    "moduleResolution": "node"
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "resolveJsonModule": true
   },
   "include": ["src"]
 }
