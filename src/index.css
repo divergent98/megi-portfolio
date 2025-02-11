@@ -1,0 +1,403 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  overflow-x: hidden !important;
+}
+
+.header {
+    color: blue;
+    font-size: 24px;
+    font-weight: bold;
+  }
+
+  .hero-section {
+    overflow-x: hidden;
+    width: 100%;
+    height: 100vh; /* 100% of the viewport height */
+    background-size: cover; /* Scale image to cover entire area */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Avoid image repetition */
+  }
+  .background-beidge{
+
+    background-color: #f9e6c3;
+
+  }
+  .background-gray{
+    background-color: #FFF5E3;
+
+  }
+  
+  .planet-background{
+    background-image: url("assets/planet.png");
+    background-size: cover;
+    height: 140vh;
+    margin-top: -150px !important;
+  }
+  .custom-meggiverse-p{
+    margin-top: 250px !important;
+    padding-left: 50px !important;
+  }
+  .fs-28{
+    font-size: 28px;
+  }
+  .fs-25{
+    font-size: 25px;
+  }
+  .fs-32{
+    font-size: 32px;
+  }
+  .fs-26{
+    font-size: 22px;
+  }
+  .fs-43{
+    font-size: 43px;
+  }
+  .fs-47{
+    font-size: 47px;
+  }
+  .fs-52{
+    font-size: 52px;
+  }
+  .fs-64{
+    font-size: 64px;
+  }
+  .custom-6{
+   margin-top: -75px !important;
+   margin-left: 30px;
+   transform: scale(0.95)
+  }
+  .custom-5{
+    transform: scale(1.1);
+  }
+  .custom-7{
+    transform: scale(1.1);
+
+  }
+  .custom-8{
+
+    transform: scale(0.95)
+  }
+  .custom-9{
+    margin-left: -70px;
+    margin-top: -30px !important;
+    transform: scale(0.95)
+  }
+
+  .custom-10{
+    margin-top: -75px !important;
+  }
+  .custom-11{
+    transform: scale(0.95);
+    margin-left: -40px !important;
+  }
+  .custom-12{
+    margin-left: -40px !important;
+  }
+
+  .scale{
+    transform: scale(1.3);
+  }
+  .scale-2{
+    transform: scale(1.4);
+  }
+
+.artvanturista{
+  background-color: #BBF0F9;
+}
+.maggiverse{
+  background-color: #2f2f8a9a;
+  color: white
+}
+.home{
+  background-color: #000000;
+  color: #ffffff
+}
+.artvanturista button{
+  background-color: #f9e6c3;
+}
+.artvanturista button:hover{
+  background-color: #FFF5E3;
+}
+
+.night-sky-background{
+  
+  background-color: #0f103f;
+}
+.maggiverse-hero h1{
+  margin-top: -30px;
+  color: #E684FF;
+  font-size: 98px;
+  margin-left: 100px;
+  font-family: "Changa One", sans-serif !important;
+  font-weight: 400;
+}
+.maggiverse-h2{
+  font-family: "Changa One", sans-serif !important;
+  text-align: center;
+  font-size: 98px;
+  font-weight: 400;
+  color: white;
+}
+.maggiverse-hero h5{
+font-family: "Jersey 25", sans-serif;
+color: white;
+font-size: 47px;
+margin-left: 100px;
+}
+.small-sphere{
+  position: relative;
+  top: 500px
+}
+
+.maggiverse-hero{
+background-image: url(assets/astronaut.png);
+
+background-size: cover;
+height: 170vh !important;
+
+ 
+}
+.mySwiper {
+  width: 80%;
+  height: 400px;
+  margin: auto;
+  background-color: transparent;
+}
+
+.swiper-slide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: transform 0.3s ease;
+  overflow: hidden;
+  border-radius: 10px;
+  border: 1px solid black;
+  transform: scale(0.8);
+}
+
+.swiper-slide-active {
+  transform: scale(1.0);
+  box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.carousel-image{
+  width: 90%;
+  height: auto;
+}
+
+.swiper-slide img {
+  border-radius: 10px;
+  margin: 10px;
+
+}
+.carousel-bg-color{
+  background-color: #0f103f57;
+}
+
+input::placeholder {
+  font-size: 18px; /* Set your desired font size */
+  color: #555; /* Optional: Change placeholder text color */
+}
+textarea::placeholder {
+  font-size: 18px; /* Set your desired font size */
+  color: #555; /* Optional: Change placeholder text color */
+}
+.meggiverse-input-field{
+  background-color: #ffffff4a !important;
+  border: #0f103f !important;
+
+}
+
+.meggiverse-input-field::placeholder
+{
+  color: white !important;
+}
+.maggiverse-btn{
+  border: none;
+  color: white !important;
+background: linear-gradient(135deg, rgba(201,97,222,1) 0%, rgba(41,84,163,1) 100%);
+}
+/* Custom tabs styling */
+.tabs-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.custom-tabs {
+  list-style: none;
+  display: flex;
+  gap: 30px;
+  padding: 0;
+  margin: 0;
+}
+
+.custom-tab {
+  font-family: 'Arial', sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  color: black;
+  cursor: pointer;
+  position: relative;
+}
+
+.custom-tab.active {
+  font-weight: bold;
+}
+
+.custom-tab.active::after {
+  content: '';
+  display: block;
+  width: 5px;
+  height: 5px;
+  background-color: black;
+  border-radius: 50%;
+  position: absolute;
+  bottom: -10px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.custom-tab:hover {
+  color: #555;
+}
+.graphic{
+background-color: #fff8f0;
+}
+.graphic-btn{
+  background-color: black !important;
+  color: white !important
+}
+.social-media{
+  background-color:  #ebffee;;
+}
+.background-white{
+  background-color: white;
+}
+.social-media-btn{
+  background-color: white !important;
+}
+.cvet{
+  position:absolute;
+  bottom: 0;
+  left: 0;
+}
+.background-mint{
+  background-color: #ebffee;
+}
+.ux-ui{
+  background-color: #D49207;
+}
+.text-pink{
+  color: #8C0052
+}
+.btn-pink{
+  background-color: #8C0052 !important;
+}
+.social-floating{
+  position: absolute;
+  bottom: 20px;
+  left: 50px;
+}
+.img-position{
+  position:absolute;
+  bottom:0;
+  height: 90vh !important;
+  width: auto;
+}
+@media only screen and (max-width: 600px) {
+  *{
+    overflow-x: hidden;
+  }
+  .img-position{
+    position: block;
+    bottom:0;
+    height: 90vh !important;
+    width: auto;
+  }
+  .fs-32{
+    font-size: 16px;
+  }
+  .fs-28{
+    font-size: 14px;
+  }
+  .fs-mb-18{
+    font-size: 18px;
+  }
+  .sm-50{
+    width: 50%;
+    height: auto;
+    margin: 0 auto; /* Center horizontally */
+    display: block;
+  }
+  .spacer{
+    height: 250px;
+  }
+  .maggiverse-hero h1{
+    margin-top: -30px;
+    color: #E684FF;
+    font-size: 70px;
+    margin-left: 10px;
+    font-family: "Changa One", sans-serif !important;
+    font-weight: 400;
+  }
+  .maggiverse-hero h5{
+    font-family: "Jersey 25", sans-serif;
+    color: white;
+    font-size: 38px;
+    margin-left: 10px;
+    }
+  .maggiverse-h2{
+    font-family: "Changa One", sans-serif !important;
+    text-align: center;
+    font-size: 70px;
+    font-weight: 400;
+    color: white;
+  }
+  .maggiverse-hero{
+    background-image: url("assets/astronaut-mobile-01.png");
+    
+    background-size: cover;
+    height: 100vh !important;
+    
+     
+    }
+    .planet-earth {
+      display: block;
+      margin: 0 auto;
+      position: relative;
+      transform: translateX(-10%); /* Adjust this value to move the image further to the side */
+      width: 100%;
+      max-width: 300px; /* Limit the size for mobile */
+    }
+    .planet-background{
+      background-image: url("assets/planet.png");
+      background-size: cover;
+      background-position: center;
+      height: 70vh;
+      margin-top: -50px !important;
+    }
+    .text-container {
+      text-align: center;
+      margin-top: 20px;
+      padding: 0 15px; /* Add padding for better readability on mobile */
+    }
+  
+    .row.align-items-center {
+      flex-direction: column; /* Stack the image and text vertically */
+    }
+    .fs-25{
+      font-size: 15px;
+    }
+    .fs-52{
+      font-size: 36px;
+    }
+    .custom-meggiverse-p{
+      margin-top: 230px !important;
+      padding-left: 10px !important;
+    }
+}

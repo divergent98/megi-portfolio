@@ -1,0 +1,107 @@
+{
+  "hero": {
+    "greeting": "Zdravo, ja sam",
+    "welcome": "Dobrodošli u moj svet!",
+    "talk": "Hajde da pričamo!",
+    "portfolio": "Portfolio"
+  },
+  "about": {
+    "title": "O MENI",
+    "text": "Zašto bi čovek u svom spektru nijansi bio obojen samo jednom bojom? Profesija je naše pakovanje ali interesovanja nas čine pravim profesionalcima. Moja kreativnost se proteže preko grafičkog dizajna kao primarnog zanimanja, preko slikanja, do ilustracija. Izražavam je kroz akrilno slikarstvo i crtanje, na platnu i papiru ali i digitalno - jer kreativnost ne poznaje zidove i granice. Ovo je portal u moj svet. Putem njega sa vama delim sve što stvaram i što predstavlja odraz mog kreativnog puta. "
+  },
+  "services": {
+    "title": "USLUGE",
+    "description": "Istražite sve što stvaram, i hajde da zajedno kreiramo nešto jedinstveno!",
+    "art": {
+      "title": "Umetnost",
+      "description": "Kreiram jedinstvena umetnička dela koja oživljavaju vaše emocije i pretvaraju vaš prostor u odraz vas samih."
+    },
+    "graphic_design": {
+      "title": "Grafički Dizajn",
+      "description": "Od logotipa do vizit karti, dizajniram vizuale koji čine vaš brend nezaboravnim i odražavaju vaš stil."
+    },
+    "social_media": {
+      "title": "Društvene Mreže & Marketing",
+      "description": "Angažujem vašu publiku kreativnim objavama i strategijama koje povećavaju vaš digitalni uticaj."
+    },
+    "ui_ux": {
+      "title": "UI/UX Dizajn",
+      "description": "Oblikujem intuitivne i korisnički pristupačne dizajne za digitalne platforme."
+    }
+  },
+  "portfolio": {
+    "title": "PORTFOLIO",
+    "branding": "Brendiranje",
+    "logo_design": "Dizajn Logotipa",
+    "cv_design": "Dizajn CV-a",
+    "print_design": "Dizajn za štampu",
+    "canvas_print": "Štampa na platnu",
+    "mug_print": "Štampa na šolji",
+    "painting": "Slikarstvo",
+    "visit_card": "Dizajn vizit karti"
+
+  },
+  "artvanturista": {
+    "text": " Umetnost nas povezuje s nečim dubljim u nama – s lepotom prirode, energijom univerzuma i sopstvenim doživljajem sveta. Verujem da umetnost ima moć da spoji ono što vidimo spolja sa našim unutrašnjim osećajima, stvarajući harmoničnu vezu između života na Zemlji i univerzalne energije.",
+    "title_1": "SPOJ UMETNOSTI I",
+    "title_2": "AVANTURE PUTOVANJA",
+    "text_2": "Kroz putovanja Artvanturiste, možete svedočiti svakom mom potezu četkice koji nosi deo priče sa mojih putovanja. Inspirisana mestima koja posećujem, slikam raznim tehnikama unikatne pejzaže, koji odišu duhom avanture i slobode. Moji radovi često nastaju u pokretu, što ih čini autentičnim i dinamičnim, a svaka slika je odraz doživljaja sa puta – priče ispričane kroz boje i oblike.",
+    "text_3": "Uživajte u autentičnim delima koja pričaju priče o avanturama – a za one sa posebnim vizijama, stvaram i po vašoj meri."
+  },
+  "megiverse": {
+    "welcome": "DOBRODOŠLI U",
+    "welcome_text": "Dobrodošli u Maggiverse – moj univerzum ilustrovanih svetova i dimenzija. Svaka ilustracija je prozor u beskonačnost Univerzuma i duboko bogatstvo koje se nalazi oko nas i u nama samima. Ove digitalne ilustracije, pažljivo pretvorene u printove na odeći i predmetima, donose dašak ovog beskrajnog sveta u svakodnevni život.",
+    "text_2": "Istražite moje ilustracije, odaberite onu koja vas pozove i ostavite vanzemaljski utisak gde god da se pojavite.",
+    "text_3": "Ukoliko tražite nešto posebno, što nosi vašu ličnu priču, sa radošću ću kreirati prilagođenu digitalnu ilustraciju po vašoj želji. Javite se da zajedno oživimo vašu viziju kroz Maggiverse – univerzum stvoren iz srca.",
+    "illustrations": "ILUSTRACIJE"
+  },
+  "social_media": {
+    "title_1": "DRUŠTVENE MREŽE",
+    "title_1_2": "& MARKETING",
+    "text_1": "Društvene mreže su moj kreativni prostor gde se komunikacija sa ljudima pretvara u zajednicu, a brendovi oživljavaju kroz strategiju i vizuale. Svakom objavom težim da ispričam autentičnu priču koja ne samo da privlači pažnju, već povezuje pravu publiku sa vašim brendom na dubljem nivou.",
+    "title_2": "HAJDE DA ISTRAŽIMO MOJ NAČIN RADA",
+    "research": "ISTRAŽIVANJE",
+    "research_text": "Krećem sa istraživanjem i analizom nakon razgovora s vama, kako bih razumela vaše ciljeve i potrebe. Na osnovu toga pravim strategiju i kroz analizu tržišta i publike kreiram plan sa jasnim koracima ka postizanju vaših ciljeva.",
+    "strategy": "STRATEGIJA",
+    "strategy_text": "Strategija se temelji na analizi podataka. Vođena znatiželjom da razumem ljude i njihove potrebe, kreiram kreativne načine za povezivanje s vašim brendom. Kroz jasnu viziju, strategija daje brendu prepoznatljiv glas i omogućava da se izdvoji u svetu konkurencije.",
+    "content_creation": "KREIRANJE SADRŽAJA",
+    "content_creation_text": "Nakon toga, prelazim na dizajn i pisanje tekstova. Verujem da svaka uspešna objava nosi priču koja angažuje publiku. Uspeh na društvenim mrežama nije slučajan – svaki korak je pažljivo osmišljen za jasnu i upečatljivu poruku.",
+    "title_3": "NEKI OD MOJIH PROJEKATA",
+    "text_3_1": "Kao menadžer društvenih mreža u CMM-u, imala sam priliku da unapredim digitalni angažman brenda jedne od vodećih kompanija za nekretnine i investicije u Crnoj Gori. ",
+    "text_3_2": "CMM nudi sveobuhvatne usluge u oblasti prodaje nekretnina, investicionog savetovanja i upravljanja iznajmljivanjem, uz strateško partnerstvo sa Chestertons Global. Kroz kreativne strategije na društvenim mrežama, uspela sam da unapredim prepoznatljivost brenda i stvorim bolju povezanost sa ciljanom publikom.",
+    "text_4_1": "CodeArt je kompanija koja se fokusira na pružanje sveobuhvatnih softverskih i hardverskih rešenja, omogućavajući firmama da unaprede svoje poslovanje inovativnom tehnologijom. ",
+    "text_4_2": "Za glavnu stranicu posvećenu softveru, kreiram sadržaj koji osvetljava kako CodeArt-ova prilagođena rešenja pomažu firmama da rastu, optimizuju procese i ostvare svoje poslovne ciljeve. Svaka objava ima za cilj da predstavi kako se tehnologija koristi za unapređenje produktivnosti i efikasnosti.",
+    "text_5_1": "Takođe, upravljam njihovim stranicama za Mobile Shop, sa posebnim naglaskom na prikazivanje produkta kao što su laptopovi, oprema za telefone i drugi proizvodi. Moj cilj je da stvorim sadržaj koji povezuje publiku sa brendom, predstavljajući CodeArt kao lidera u pružanju tehnoloških rešenja koja čine razliku na tržištu.",
+    "text_6": "Bice mi drago da vas upoznam i da vam pomognem u prezentovanju i poboljsanju vaseg posla putem drustvenih mreza. Zakazite besplatne konsultacije kako bismo zajedno pogledali vase drustvene mreze i da vidimo sta je to sto moze da se poboljsa.",
+    "folow_1": "For more posts,",
+    "folow_2": "click here:",
+    "more": "...i mnogi drugi..."
+  },
+  "graphic_design": {
+    "title": "GRAFIČKI DIZAJN",
+    "text": "Grafički dizajn je osnova mog rada, a svaka kreacija reflektuje jedinstvenost brenda ili osobe sa kojom radim. Bilo da ste nova firma koja želi da izgradi vizuelni identitet ili već postojeći biznis koji traži osveženje dizajna, nudim širok spektar usluga prilagođenih vašim potrebama.",
+    "logo": "LOGO",
+    "busuness_card": "VIZIT KARTE",
+    "print_design": "PRINT",
+    "text_2": "Ako vam je potreban dizajn koji će reflektovati vrednosti vašeg brenda i ostaviti snažan utisak, tu sam da pomognem."
+  },
+  "ux_ui_design": {
+    "title": "UI/UX DIZAJN",
+    "text": "U neprestanoj potrazi za novim načinima kreativnog izražavanja - UI/UX postaje moja nova strast, prirodni nastavak nakon dugogodišnjeg rada u grafičkom dizajnu. Najviše volim u UI/UX dizajnu jer mi omogućava da budem u svetu web dizajna, a da izbegnem tehničke izazove kodiranja. Fokusiram se na razumevanje korisnika i dizajniranje jednostavnih, inovativnih i jedinstvenih iskustava.",
+    "text_bite": "BITE QR Menu aplikacija omogućava restoranima brz i jednostavan način da prikažu svoje menije digitalno. Jednostavnim skeniranjem QR koda, gosti mogu pregledati ceo meni, istraživati jela i ponudu restorana – sve direktno sa svojih telefona pružajući jedinstveno iskustvo i laku navigaciju korisnicima.",
+    "text_mega": "Inspirisana potrebom za modernizacijom i optimizacijom poslovanja, osmislila sam inovativnu platformu za e-trgovinu namenjenu Mega Promet marketu u Crnoj Gori. Cilj projekta bio je unapređenje korisničkog iskustva i povećanje prodaje kroz digitalizaciju i automatizaciju procesa.",
+    "text_mega_2": "Zahvaljujući posvećenom timu programera iz CodeArt-a, ova ideja je uspešno pretočena u funkcionalnu platformu koja predstavlja ključni korak u transformaciji poslovanja Mega Prometa.",
+    "text_2": "Ako želite dizajn koji kombinuje estetiku i funkcionalnost, interfejs koji će vašim korisnicima pružiti jednostavno i prijatno iskustvo – tu sam da vam pomognem."
+  },
+  "contact":{
+    "title":"Kontaktirajte me",
+    "text_1":"Imate pitanje ili ideju za projekat? Volela bih da čujem!",
+    "text_2":"Hajde da razgovaramo i zajedno stvorimo nešto neverovatno.",
+    "button":"Pošaljite poruku",
+    "field_1":"Ime",
+    "field_2":"Email Adresa",
+    "field_3":"Tema",
+    "field_4":"Vaša Poruka"
+  }
+
+}
